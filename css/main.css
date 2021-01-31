@@ -3,10 +3,11 @@ body{
 }
 
 p{
-
+  font-size: ;
 }
 
 #second{
+  padding: 2%;
   background-color: #ffea82;
   color: #ffffff;
 }
