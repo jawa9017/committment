@@ -83,6 +83,7 @@ div.gallery img {
 }
 
 .sizedFixed{
+  position: fixed;
   max-width: 60%;
   height: auto;
 }
