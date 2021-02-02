@@ -61,6 +61,14 @@ div.gallery img {
   font-family: 'Roboto Slab', serif;
 }
 
+.shittyP{
+  text-align: center;
+  width: 75%;
+  font-size: 150%;
+  color: #1fb0ff;
+  font-family: 'Amatic SC', cursive;
+}
+
 .leftFinal{
   text-align: left;
   width: 75%;
