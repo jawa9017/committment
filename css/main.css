@@ -23,7 +23,7 @@ aside{
  div.gallery { /*All of this code was taken from w3schools.com too */
   margin: 5px;
   border: 1px solid #ccc;
-  float: left;
+  float: center;
   width: 180px;
 }
 
