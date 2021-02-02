@@ -6,8 +6,14 @@ body{
   font-size: 175%;
 }
 
+.colored{
+  font-size: 175%;
+  color: #1fb0ff;
+}
+
 #second{
   padding: 2%;
+  margin: 0%;
   background-color: #ffea82;
   color: #ffffff;
 }
