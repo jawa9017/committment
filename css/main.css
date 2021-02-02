@@ -102,3 +102,13 @@ div.gallery img {
   flex-flow: row wrap;
   justify-content: center;
 }
+
+.third{
+  padding: 2%;
+  margin: 0%;
+  background-color: #ffea82;
+  color: #ffffff;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
