@@ -10,7 +10,9 @@ hr{
 }
 
 aside{
+  text-align: center;
   margin: 2%;
+  width: 20%;
   font-size: 100%;
   color: #1fb0ff;
   font-family: 'Roboto Slab', serif;
@@ -39,6 +41,7 @@ aside{
   font-size: 150%;
   color: #1fb0ff;
   font-family: 'Roboto Slab', serif;
+  width: 75%;
 }
 
 
