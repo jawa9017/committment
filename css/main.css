@@ -4,17 +4,27 @@ body{
 
 .better{
   font-size: 175%;
+  width: 100%;
 }
 
 .colored{
   font-size: 175%;
   color: #1fb0ff;
+  width: 100%;
 }
 
 .best{
   font-size: 175%;
   color: #1fb0ff;
   font-family: 'Roboto Slab', serif;
+  width: 100%;
+}
+
+.mainH1{
+  font-size: 175%;
+  color: #1fb0ff;
+  font-family: 'Roboto Slab', serif;
+  width: 100%;
 }
 
 #second{
@@ -22,4 +32,5 @@ body{
   margin: 0%;
   background-color: #ffea82;
   color: #ffffff;
+  display: inline-flex;
 }
