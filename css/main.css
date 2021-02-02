@@ -82,6 +82,10 @@ div.gallery img {
   height: auto;
 }
 
+.sizedFixed{
+  max-width: 60%;
+  height: auto;
+}
 
 .mainH1{
   text-align: center;
