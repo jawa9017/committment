@@ -9,6 +9,13 @@ hr{
   border-color: #1fb0ff;
 }
 
+.greenH1{
+  width: 75%;
+  border-width: medium;
+  border: 1px solid;
+  border-color: #1fb0ff;
+}
+
 aside{
   text-align: center;
   margin: 2%;
