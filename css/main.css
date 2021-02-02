@@ -11,6 +11,12 @@ body{
   color: #1fb0ff;
 }
 
+.best{
+  font-size: 175%;
+  color: #1fb0ff;
+  font-family: 'Roboto Slab', serif;
+}
+
 #second{
   padding: 2%;
   margin: 0%;
