@@ -24,7 +24,7 @@ aside{
   margin: 5px;
   border: 1px solid #ccc;
   float: center;
-  width: 180px;
+  width: 20%;
 }
 
 div.gallery:hover {
@@ -56,6 +56,7 @@ div.gallery img {
 
 .final{
   text-align: center;
+  width: 100%;
   font-size: 150%;
   color: #1fb0ff;
   font-family: 'Roboto Slab', serif;
