@@ -61,6 +61,15 @@ div.gallery img {
   font-family: 'Roboto Slab', serif;
 }
 
+.columns{
+  text-align: center;
+  width: 30%;
+  margin: 2%;
+  font-size: 150%;
+  color: #1fb0ff;
+  font-family: 'Roboto Slab', serif;
+}
+
 .shittyP{
   text-align: center;
   width: 75%;
