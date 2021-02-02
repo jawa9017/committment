@@ -62,7 +62,11 @@ div.gallery img {
 }
 
 .green{
-  
+  text-align: center;
+  width: 75%;
+  font-size: 150%;
+  color: #1fb0ff;
+  font-family: 'Roboto Slab', serif;
 }
 
 .columns{
