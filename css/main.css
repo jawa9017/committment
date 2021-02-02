@@ -2,6 +2,13 @@ body{
 
 }
 
+hr{
+  width: 100%;
+  border-width: medium;
+  border: 1px solid;
+  border-color: #1fb0ff;
+}
+
 .better{
   font-size: 175%;
   width: 100%;
@@ -21,7 +28,7 @@ body{
 }
 
 .final{
-  font-size: 175%;
+  font-size: 150%;
   color: #1fb0ff;
   font-family: 'Roboto Slab', serif;
 }
