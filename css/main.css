@@ -22,9 +22,8 @@ aside{
 
  div.gallery { /*All of this code was taken from w3schools.com too */
   margin: 5px;
-  border: 1px solid #ccc;
   float: center;
-  width: 20%;
+  width: 25%;
 }
 
 div.gallery:hover {
@@ -56,7 +55,7 @@ div.gallery img {
 
 .final{
   text-align: center;
-  width: 100%;
+  width: 75%;
   font-size: 150%;
   color: #1fb0ff;
   font-family: 'Roboto Slab', serif;
