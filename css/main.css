@@ -20,6 +20,22 @@ aside{
   float: right;
 }
 
+ div.gallery { /*All of this code was taken from w3schools.com too */
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
 .better{
   font-size: 175%;
   width: 100%;
