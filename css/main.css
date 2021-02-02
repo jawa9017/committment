@@ -12,11 +12,12 @@ hr{
 aside{
   text-align: center;
   margin: 2%;
-  width: 20%;
+  width: 15%;
   font-size: 100%;
   color: #1fb0ff;
   font-family: 'Roboto Slab', serif;
-  align-self: flex-end;
+  /* align-self: flex-end; */
+  float: right;
 }
 
 .better{
@@ -41,7 +42,6 @@ aside{
   font-size: 150%;
   color: #1fb0ff;
   font-family: 'Roboto Slab', serif;
-  width: 75%;
 }
 
 
