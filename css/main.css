@@ -92,6 +92,15 @@ div.gallery img {
   align-self: center;
 }
 
+.h2next{
+  text-align: center;
+  font-size: 200%;
+  width: 100%;
+  color: #1fb0ff;
+  font-family: 'Roboto Slab', serif;
+  align-self: center;
+}
+
 .sideH1{
   text-align: right;
   font-size: 250%;
