@@ -39,9 +39,15 @@ aside{
 }
 
 .final{
+  text-align: center;
   font-size: 150%;
   color: #1fb0ff;
   font-family: 'Roboto Slab', serif;
+}
+
+.sized{
+  max-width: 70%;
+  height: auto;
 }
 
 
