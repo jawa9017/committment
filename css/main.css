@@ -61,6 +61,14 @@ div.gallery img {
   font-family: 'Roboto Slab', serif;
 }
 
+.leftFinal{
+  text-align: left;
+  width: 75%;
+  font-size: 150%;
+  color: #1fb0ff;
+  font-family: 'Roboto Slab', serif;
+}
+
 .sized{
   max-width: 60%;
   height: auto;
