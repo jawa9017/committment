@@ -93,6 +93,15 @@ div.gallery img {
   align-self: center;
 }
 
+.sideH1{
+  text-align: center;
+  font-size: 250%;
+  width: 100%;
+  color: #1fb0ff;
+  font-family: 'Amatic SC', cursive;
+  align-self: center;
+}
+
 .second{
   padding: 2%;
   margin: 0%;
