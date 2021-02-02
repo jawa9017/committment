@@ -68,7 +68,9 @@ div.gallery img {
 
 
 .mainH1{
+  text-align: center;
   font-size: 250%;
+  width: 100%;
   color: #1fb0ff;
   font-family: 'Roboto Slab', serif;
   align-self: center;
